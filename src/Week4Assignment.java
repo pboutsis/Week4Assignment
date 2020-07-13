@@ -33,7 +33,7 @@ public class Week4Assignment {
 	
 	private static double surface (double width, double length, double height) 
 	{
-		return 2*((length * width) + 2*(length * height) + 2*(width * height));
+		return 2*((length * width) + (length * height) + (width * height));
 	}
 	private static double volume (double length, double height, double width) 
 	{
