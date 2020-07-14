@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon.
 //Preston Boutsis
 import java.util.Scanner;
 
